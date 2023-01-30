@@ -1,0 +1,14 @@
+[
+    {
+      "product_img": "./image/nike.jpg",
+      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": "12999$"
+      
+    },
+    {
+      "product_img": "./image/nike.jpg",
+      "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+      "price": "11999$"
+      
+    }
+]
